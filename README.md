@@ -3,7 +3,7 @@
 
 
 - 🔭 Estudiando Bootcamp Full Stack
-- 📫 How to reach me: fatiamleal.3@gmail.com
+- 📫 How to reach me: fatiruiz.r@gmail.com
 
 
 <h3 align="left">Conecta conmigo en :</h3>
